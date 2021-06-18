@@ -115,7 +115,7 @@ en la tabla.
 Tabla de Registro de datos tomandos del Experimento:
 
 
-![]()    - Tabla registrado los valores cada nodo
+![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/Tabla%20de%20resultados.jpg)
 
 
 Para poder econtrar los valores de la corriente para cada nodo se aplicaron los sigueintes calulos:
@@ -161,11 +161,6 @@ Finalmente encontramos los valores de voltaje
 Y los valores de la corriente
 
 <img src="https://latex.codecogs.com/svg.latex?I_1&space;=&space;\frac{9.21V}{1800&space;\Omega}&space;=&space;5.11\&space;mA&space;\\&space;\\&space;I_2&space;=&space;\frac{2.79V}{470&space;\Omega}&space;=&space;5.94\&space;mA&space;\\&space;\\&space;I_3&space;=&space;\frac{-2.02V}{2200&space;\Omega}&space;=&space;-918\&space;\mu&space;A&space;\\&space;\\&space;I_4&space;=&space;\frac{4.81V}{3900&space;\Omega}&space;=&space;1.23\&space;mA&space;\\&space;\\&space;I_5&space;=&space;\frac{-3.19V}{1500&space;\Omega}&space;=&space;-2.13\&space;mA" title="I_1 = \frac{9.21V}{1800 \Omega} = 5.11\ mA \\ \\ I_2 = \frac{2.79V}{470 \Omega} = 5.94\ mA \\ \\ I_3 = \frac{-2.02V}{2200 \Omega} = -918\ \mu A \\ \\ I_4 = \frac{4.81V}{3900 \Omega} = 1.23\ mA \\ \\ I_5 = \frac{-3.19V}{1500 \Omega} = -2.13\ mA" />
-
-
-
-
-![]() - calculo del error
 
 
 7. CONCLUSIONES
