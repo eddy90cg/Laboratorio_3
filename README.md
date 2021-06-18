@@ -38,7 +38,7 @@ Ley de nodos:
 
  La suma algebraica de las corrientes en un nodo es igual a cero.      
 
-I1 – I2 – I3 = 0
+I1 + I2 + I3 = 0 => valor de las corrientes en el NODO .
 
 Ley de mallas: 
 
