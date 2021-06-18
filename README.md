@@ -6,6 +6,7 @@
 
 1. OBJETIVOS
 
+
 OBJETIVO GENERAL:
 
 * Comprobar experimentalmente el Análisis de Nodos
@@ -18,7 +19,9 @@ OBJETIVOS ESPECÍFICOS:
 
 * Verificar las leyes de Kirchhoff: Ley de Mallas, ley de Nodos para econtrar el voltaje de cada nodo.
 
+
 2. MARCO TEÓRICO 
+
 
 * Resumen:
 
@@ -46,7 +49,8 @@ VAB = V1 + V2 + V3
 ![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/circuito%20marco%20teorico.jpg)
 
 
-Procedimiento para aplicar el análisis de Nodos :
+* Procedimiento para aplicar el análisis de Nodos :
+
 
 1.  Localice los segmentos de cable conectados al circuito. Estos serán los nodos que se usarán para el método.
 
@@ -54,9 +58,9 @@ Procedimiento para aplicar el análisis de Nodos :
 
 3.  Identifique los nodos que están conectados a fuentes de voltaje que tengan una terminal en el nodo de referencia. En estos nodos la fuente define la tensión del nodo. Si la fuente es independiente, la tensión del nodo es conocida. En estos nodos no se aplica la LCK.
 
-4.  Asigne una variable para los nodos que tengan tensiones desconocidas. Si la tensión del nodo ya se conoce, no es necesario asignarle una variable. (Véase Figura 2)
+4.  Asigne una variable para los nodos que tengan tensiones desconocidas. Si la tensión del nodo ya se conoce, no es necesario asignarle una variable.
 
-5.  Para cada uno de los nodos, se plantean las ecuaciones de acuerdo con las Leyes de Kirchhoff. Básicamente, sume todas las corrientes que pasan por el nodo e iguálelas a 0. Si el número de nodos es {\displaystyle n}n, el número de ecuaciones será por lo menos {\displaystyle n-1}n-1 porque siempre se escoge un nodo de referencia al cual no se le elabora ecuación.
+5.  Para cada uno de los nodos, se plantean las ecuaciones de acuerdo con las Leyes de Kirchhoff. Básicamente, sume todas las corrientes que pasan por el nodo e iguálelas a 0. Si el número de nodos es (n), el número de ecuaciones será por lo menos (n-1) porque siempre se escoge un nodo de referencia al cual no se le elabora ecuación.
 
 6.  Si hay fuentes de tensión entre dos tensiones desconocidas(entre dos nodos desconocidos), una esos dos nodos como un supernodo, haciendo el sumatorio de todas las corrientes que entran y salen en ese supernodo. Las tensiones de los dos nodos simples en el supernodo están relacionadas por la fuente de tensión intercalada.
 
@@ -66,8 +70,8 @@ Diagrama de Nodos Teórico:
 
 ![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/diagrama%20nodos%20teorico.jpg)
 
-3. DIAGRAMAS
 
+3. DIAGRAMAS
 
 * Figura, Circuito Teórico para el análisis de nodos:
 
@@ -85,13 +89,16 @@ Diagrama de Nodos Teórico:
 
 ![]()   -   Mendicion simuladao voltimetro 
 
+
 4. LISTA DE COMPONENTES
 
 Lista de Materiales y componetes necesarios para desarrollar el circuito expirementalmente y simularlo:
 
 ![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/materiales%20o%20euipo%20lab%203.jpg)
 
+
 5. EXPLICACIÓN
+
 
 * Implemente el circuito que se presenta en la figura.
 
@@ -103,7 +110,9 @@ en la tabla.
 
 * Compare los valores de la tabla  y realice sus respectivas conclusiones.
 
+
 6. APORTACIONES
+
 
 Tabla de Registro de datos tomandos del Experimento:
 
@@ -131,6 +140,7 @@ Para poder econtrar los valores de la corriente para cada malla se aplicaron los
 
 * la cantidad de nodos se puede determinar poir la cnatidad delementos conectados en un solo nodo.
 
+
 8. BIBLIOGRAFÍA
 
 Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
@@ -141,6 +151,7 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
      https://electronicacompleta.com/leyes-de-kirchhoff/
      
+
 9. Anexos
 
 Calculo del error: 
