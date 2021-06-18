@@ -82,7 +82,7 @@ Diagrama de Nodos Teórico:
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada elemento:
 
-![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/simulado%20medicion%20de%20corriente.jpeg)
+![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/Medicion%20de%20Corriente.jpeg)
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo al voltaje de cada nodo:
 
