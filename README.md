@@ -156,6 +156,15 @@ Una vez obtenida <img src="https://latex.codecogs.com/svg.latex?V_C" title="V_C"
 
 <img src="https://latex.codecogs.com/svg.latex?V_B&space;=&space;-11.74V&space;&plus;&space;(4.81)(3.02)&space;\\&space;V_B&space;=&space;2.79&space;V" title="V_B = -11.74V + (4.81)(3.02) \\ V_B = 2.79 V" />
 
+Finalmente encontramos los valores de voltaje
+
+<img src="https://latex.codecogs.com/svg.latex?V_1&space;=&space;V_A&space;-&space;V_B&space;=&space;12&space;-&space;2.79&space;=&space;9.21\&space;V&space;\\&space;\\&space;V_2&space;=&space;V_B&space;-&space;0V&space;=&space;2.79\&space;V&space;\\&space;\\&space;V_3&space;=&space;V_B&space;-&space;V_C&space;=&space;-2.02\&space;V&space;\\&space;\\&space;V_4&space;=&space;V_C&space;-&space;0V&space;=&space;4.81\&space;V&space;\\&space;\\&space;V_5&space;=&space;V_C&space;-&space;V_D&space;=&space;-3.19\&space;V" title="V_1 = V_A - V_B = 12 - 2.79 = 9.21\ V \\ \\ V_2 = V_B - 0V = 2.79\ V \\ \\ V_3 = V_B - V_C = -2.02\ V \\ \\ V_4 = V_C - 0V = 4.81\ V \\ \\ V_5 = V_C - V_D = -3.19\ V" />
+
+Y los valores de la corriente
+
+<img src="https://latex.codecogs.com/svg.latex?I_1&space;=&space;\frac{9.21V}{1800&space;\Omega}&space;=&space;5.11\&space;mA&space;\\&space;\\&space;I_2&space;=&space;\frac{2.79V}{470&space;\Omega}&space;=&space;5.94\&space;mA&space;\\&space;\\&space;I_3&space;=&space;\frac{-2.02V}{2200&space;\Omega}&space;=&space;-918\&space;\mu&space;A&space;\\&space;\\&space;I_4&space;=&space;\frac{4.81V}{3900&space;\Omega}&space;=&space;1.23\&space;mA&space;\\&space;\\&space;I_5&space;=&space;\frac{-3.19V}{1500&space;\Omega}&space;=&space;2.13\&space;mA" title="I_1 = \frac{9.21V}{1800 \Omega} = 5.11\ mA \\ \\ I_2 = \frac{2.79V}{470 \Omega} = 5.94\ mA \\ \\ I_3 = \frac{-2.02V}{2200 \Omega} = -918\ \mu A \\ \\ I_4 = \frac{4.81V}{3900 \Omega} = 1.23\ mA \\ \\ I_5 = \frac{-3.19V}{1500 \Omega} = 2.13\ mA" />
+
+
 
 
 ![]() - calculo del error
