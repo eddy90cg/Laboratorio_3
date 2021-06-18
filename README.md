@@ -29,8 +29,7 @@ El análisis de nodos de circuitos eléctricos, el análisis de nodos, o método
 
 * Introducción:
 
-![]()   -   Mentefacto
-
+![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/Mentefacto.jpg)
 
 * Desarrollo:
 
@@ -118,10 +117,10 @@ en la tabla.
 Tabla de Registro de datos tomandos del Experimento:
 
 
-![]()    - Tabla registrado los vlaores cada nodo
+![]()    - Tabla registrado los valores cada nodo
 
 
-Para poder econtrar los valores de la corriente para cada malla se aplicaron los sigueintes calulos:
+Para poder econtrar los valores de la corriente para cada nodo se aplicaron los sigueintes calulos:
 
 ![]()    - calculos 
 
