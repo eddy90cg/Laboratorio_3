@@ -64,7 +64,7 @@ Procedimiento para aplicar el análisis de Nodos :
 
 Diagrama de Nodos Teórico:
 
-![](ttps://github.com/eddy90cg/Laboratorio_3/blob/main/img/diagrama%20nodos%20teorico.jpg)
+![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/diagrama%20nodos%20teorico.jpg)
 
 3. DIAGRAMAS
 
@@ -146,4 +146,4 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 Calculo del error: 
 
 
-![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%203.jpg)
+![](https://github.com/eddy90cg/Laboratorio_3/blob/main/Anexos/calculo%20del%20error.jpg)
