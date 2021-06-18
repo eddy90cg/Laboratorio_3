@@ -122,7 +122,29 @@ Tabla de Registro de datos tomandos del Experimento:
 
 Para poder econtrar los valores de la corriente para cada nodo se aplicaron los sigueintes calulos:
 
-![]()    - calculos 
+Primero tomamos el nodo B para analizar y obtener ecuaciones:
+
+<img src="https://latex.codecogs.com/svg.latex?I_1&plus;I_2&plus;I_3&space;=&space;0&space;\\&space;\\&space;\frac{V_1}{R_1}&space;&plus;&space;\frac{V_2}{R_2}&space;&plus;&space;\frac{V_3}{R_3}&space;=&space;0A&space;\\&space;\\&space;\\&space;\frac{V_A&space;-&space;V_B}{R_1}&space;&plus;&space;\frac{0V&space;-&space;V_B}{R_2}&space;&plus;&space;\frac{V_C&space;-&space;V_B}{R_3}&space;=&space;0A&space;\\&space;\\&space;\\&space;\frac{VF_1&space;-&space;V_B}{R_1}&space;&plus;&space;\frac{0V&space;-&space;V_B}{R_2}&space;&plus;&space;\frac{V_C&space;-&space;V_B}{R_3}&space;=&space;0A&space;\\" title="I_1+I_2+I_3 = 0 \\ \\ \frac{V_1}{R_1} + \frac{V_2}{R_2} + \frac{V_3}{R_3} = 0A \\ \\ \\ \frac{V_A - V_B}{R_1} + \frac{0V - V_B}{R_2} + \frac{V_C - V_B}{R_3} = 0A \\ \\ \\ \frac{VF_1 - V_B}{R_1} + \frac{0V - V_B}{R_2} + \frac{V_C - V_B}{R_3} = 0A \\" />
+
+Realizamos el mismo proceso para el nodo C:
+
+<img src="https://latex.codecogs.com/svg.latex?I_3&plus;I_4&plus;I_5&space;=&space;0&space;\\&space;\\&space;\frac{V_3}{R_3}&space;&plus;&space;\frac{V_4}{R_4}&space;&plus;&space;\frac{V_5}{R_5}&space;=&space;0A&space;\\&space;\\&space;\\&space;\frac{V_B&space;-&space;V_C}{R_3}&space;&plus;&space;\frac{0V&space;-&space;V_C}{R_4}&space;&plus;&space;\frac{V_D&space;-&space;V_C}{R_5}&space;=&space;0A&space;\\&space;\\&space;\\&space;\frac{V_B&space;-&space;V_C}{R_3}&space;&plus;&space;\frac{0V&space;-&space;V_C}{R_4}&space;&plus;&space;\frac{VF_2&space;-&space;V_C}{R_5}&space;=&space;0A&space;\\" title="I_3+I_4+I_5 = 0 \\ \\ \frac{V_3}{R_3} + \frac{V_4}{R_4} + \frac{V_5}{R_5} = 0A \\ \\ \\ \frac{V_B - V_C}{R_3} + \frac{0V - V_C}{R_4} + \frac{V_D - V_C}{R_5} = 0A \\ \\ \\ \frac{V_B - V_C}{R_3} + \frac{0V - V_C}{R_4} + \frac{VF_2 - V_C}{R_5} = 0A \\" />
+
+Factorizamos las expresiones y obtenemos 
+
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;B&space;=&space;VF_1&space;\left(\frac{1}{R_1}&space;\right)&space;&plus;&space;V_C\left(\frac{1}{R_3}\right)&space;&plus;&space;V_B\left(\frac{1}{R_1}&space;&plus;&space;\frac{1}{R_2}&space;&plus;&space;\frac{1}{R_3}\right)&space;=&space;0A" title="Nodo\ B = VF_1 \left(\frac{1}{R_1} \right) + V_C\left(\frac{1}{R_3}\right) + V_B\left(\frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}\right) = 0A" />
+
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;C&space;=&space;V_B&space;\left(\frac{1}{R_3}&space;\right)&space;&plus;&space;VF_2\left(\frac{1}{R_5}\right)&space;&plus;&space;V_C\left(\frac{1}{R_3}&space;&plus;&space;\frac{1}{R_4}&space;&plus;&space;\frac{1}{R_5}\right)&space;=&space;0A" title="Nodo\ C = V_B \left(\frac{1}{R_3} \right) + VF_2\left(\frac{1}{R_5}\right) + V_C\left(\frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}\right) = 0A" />
+
+Reemplazamos los valores conocidos
+
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;B&space;\Rightarrow&space;0.000666A&space;&plus;&space;V_C(0.000454)&space;-&space;V_B(0.00313)&space;=&space;0A&space;\\&space;\Rightarrow&space;V_C(0.000454)&space;-&space;V_B(0.00313)&space;=&space;-0.000666A" title="Nodo\ B \Rightarrow 0.000666A + V_C(0.000454) - V_B(0.00313) = 0A \\ \Rightarrow V_C(0.000454) - V_B(0.00313) = -0.000666A" />
+
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;C&space;\Rightarrow&space;V_B(0.000454)&space;&plus;&space;0.00533A&space;-&space;V_C(0.00137)=&space;0A&space;\\&space;\Rightarrow&space;V_B(0.000454)-&space;V_C(0.00137)=&space;-0.00533A" title="Nodo\ C \Rightarrow V_B(0.000454) + 0.00533A - V_C(0.00137)= 0A \\ \Rightarrow V_B(0.000454)- V_C(0.00137)= -0.00533A" />
+
+Para encontrar las incógnitas despejamos <img src="https://latex.codecogs.com/svg.latex?V_B" title="V_B" /> en las ecuaciones anteriores:
+
+
 
 
 ![]() - calculo del error
