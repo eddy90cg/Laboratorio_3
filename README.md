@@ -144,6 +144,17 @@ Reemplazamos los valores conocidos
 
 Para encontrar las incógnitas despejamos <img src="https://latex.codecogs.com/svg.latex?V_B" title="V_B" /> en las ecuaciones anteriores:
 
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;B&space;\Rightarrow&space;V_B&space;=&space;\frac{0.00666&space;&plus;&space;V_C(0.000454)}{0.00313}&space;=&space;2.12V&space;&plus;&space;V_C(0.14)" title="Nodo\ B \Rightarrow V_B = \frac{0.00666 + V_C(0.000454)}{0.00313} = 2.12V + V_C(0.14)" />
+
+<img src="https://latex.codecogs.com/svg.latex?Nodo\&space;C&space;\Rightarrow&space;V_B&space;=&space;\frac{-0.00533&space;&plus;&space;V_C(0.00137)}{0.000454}&space;=&space;-11.74V&space;&plus;&space;V_C(3.02)" title="Nodo\ C \Rightarrow V_B = \frac{-0.00533 + V_C(0.00137)}{0.000454} = -11.74V + V_C(3.02)" />
+
+Y luego igualamos las mismas para encontrar <img src="https://latex.codecogs.com/svg.latex?V_C" title="V_C" /> primero:
+
+<img src="https://latex.codecogs.com/svg.latex?2.12&space;&plus;&space;V_C(0.14)&space;=&space;-11.74&space;&plus;&space;V_C(3.02)\\&space;V_C(0.14&space;-&space;3.02)&space;=&space;-11.74&space;-&space;2.12&space;\\&space;V_C(-2.88)&space;=&space;-13.86&space;\\&space;\\&space;V_C&space;=&space;\frac{-13.86}{-2.88}&space;=&space;4.81&space;V" title="2.12 + V_C(0.14) = -11.74 + V_C(3.02)\\ V_C(0.14 - 3.02) = -11.74 - 2.12 \\ V_C(-2.88) = -13.86 \\ \\ V_C = \frac{-13.86}{-2.88} = 4.81 V" />
+
+Una vez obtenida <img src="https://latex.codecogs.com/svg.latex?V_C" title="V_C" /> reemplazamos el valor en el nodo C para encontrar <img src="https://latex.codecogs.com/svg.latex?V_B" title="V_B" /> 
+
+<img src="https://latex.codecogs.com/svg.latex?V_B&space;=&space;-11.74V&space;&plus;&space;(4.81)(3.02)&space;\\&space;V_B&space;=&space;2.79&space;V" title="V_B = -11.74V + (4.81)(3.02) \\ V_B = 2.79 V" />
 
 
 
