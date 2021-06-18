@@ -75,11 +75,8 @@ Diagrama de Nodos Teórico:
 
 * Figura, Circuito Teórico para el análisis de nodos:
 
-![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/circuito%20teorico.jpg)
-
-* Representación:
-
 ![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/diagrama.jpeg)
+
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada elemento:
 
