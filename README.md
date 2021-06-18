@@ -118,7 +118,7 @@ Tabla de Registro de datos tomandos del Experimento:
 ![](https://github.com/eddy90cg/Laboratorio_3/blob/main/img/Tabla%20de%20resultados.jpg)
 
 
-Para poder econtrar los valores de la corriente para cada nodo se aplicaron los sigueintes calulos:
+Para poder econtrar los valores de la corriente para cada nodo se aplicaron los sigueintes cálculos:
 
 Primero tomamos el nodo B para analizar y obtener ecuaciones:
 
