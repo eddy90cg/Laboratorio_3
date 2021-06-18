@@ -40,6 +40,10 @@ Ley de nodos:
 
 I1 + I2 + I3 = 0 => valor de las corrientes en el NODO .
 
+Ley de ohm: 
+
+V = I/R -> asi econtramos el valor de la corriente en cada voltaje hallado de cada nodo.
+
 Ley de mallas: 
 
 La suma de todas las caídas de tensión en un malla es igual a la suma de todas las tensiones aplicada
